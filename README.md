@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 📫 How to reach me **vhemanthkumar.10@gmail.com**
+- 📫 How to reach me **veligaramhemanthkumar@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1h7VLHQZ19A7RN5RCarJQTyAPpRsRJ5Ez/view?usp=drive_link](https://drive.google.com/file/d/1h7VLHQZ19A7RN5RCarJQTyAPpRsRJ5Ez/view?usp=drive_link)
 
